@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-s21",
+  "version": "1.0.0",
+  "description": "Hello World Program",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DahLevi/node-hello-world-s21.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DahLevi/node-hello-world-s21/issues"
+  },
+  "homepage": "https://github.com/DahLevi/node-hello-world-s21#readme"
+}
